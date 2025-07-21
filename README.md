@@ -145,7 +145,5 @@ dotenv
 ---
 
 ## 👨‍💻 Author
-Rishabh Mishra
-Final Year B.Tech (IT) | Full Stack Developer
-Portfolio Website • GitHub • LinkedIn
-
+Rishabh Mishra<br/>
+B.Tech (IT) | Full Stack Developer<br/>
