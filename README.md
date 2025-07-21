@@ -76,7 +76,7 @@ EMAIL_PASS=your_app_password
 ### 1️⃣ Clone the Repository
 ```
 git clone https://github.com/rishabhmishra007/securelytix-assignment.git
-cd securelytix-auth-dashboard
+cd securelytix-assignment
 
 ```
 ### 2️⃣ Backend Setup
